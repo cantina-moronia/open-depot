@@ -1,0 +1,7 @@
+## Depot archives of Cantina Moronia Project
+
+host: m9rfdkery1@smykwb.com
+
+Link: 
+
+    - (depot-archives.zip)[https://d-jp02-zen.terabox.com/file/a85b3977762a1b47784e1c17f2d5b7ac?bkt=en-24c643f198a62f88f413f61eef7b9f30cb740fb06d1a4dc343a858349b5443d22d25299fa4d4bb74&xcode=9d1491a98f138fd48570bfb22660878e4adfc8ba0781eb050416d86ba0e709589015277d0dff3ff25ff2c3c47a0d9573e801268afdb15995&fid=4400407389715-250528-127475910110664&time=1722263293&sign=FDTAXUGERLQlBHSKfWaon-DCb740ccc5511e5e8fedcff06b081203-zsuKrSlEWs78oR6A8mKTDC%2F%2F4v0%3D&signbak=&to=149&size=259314214&sta_dx=259314214&sta_cs=0&sta_ft=zip&sta_ct=0&sta_mt=0&fm2=MH%2Ctky%2CAnywhere%2C%2CTGF6aW8%3D%2Cany&region=tky&ctime=1722263281&mtime=1722263281&resv0=-1&resv1=0&resv2=rlim&resv3=5&resv4=259314214&vuk=4400407389715&iv=0&htype=&randtype=&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=en-c77a187bfaaa8026ed5ca247a63ea6fecdfc6e14f3b7e79635ff500a1490f0c50b82876febe9dded&sl=68091977&expires=1722292093&rt=pr&r=611855583&vbdid=-&fin=depot-archives.zip&fn=depot-archives.zip&rtype=1&dp-logid=280521208057034030&dp-callid=0.1&hps=1&tsl=2000&csl=2000&fsl=-1&csign=4WDS6BWlLRQuG52MC1wul7uYIcU%3D&so=0&ut=6&uter=4&serv=0&uc=861403544&ti=14a3010384c1ca3cb6d1d52161c912df982536a53f1cdbc2c48031c257b32a4e&ogr=0&rregion=XVVi&adg=&reqlabel=250528_f_cb12d78bfe72c30100117d7fa7e345d7_-1_2eb8386627d356a575e7b92717faf110&ccn=IT&by=themis]
